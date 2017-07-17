@@ -1,0 +1,5 @@
+pyowm (2.6.1-1) UNRELEASED; urgency=medium
+
+  * Initial Debian packaging
+
+ -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 13:28:08 -5000
